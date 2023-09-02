@@ -31,7 +31,9 @@ Conda作为软件包管理器，可以帮助您查找和安装软件包。如果
 #### 下载conda
 在[官网下载](https://docs.conda.io/projects/miniconda/en/latest/)即可
 
+
 安装后在命令行中输入`conda`,出现提示结果，表示安装成功：
+
 
 conda 的教程网上有很多，如anaconda与miniconda都可以，同学可以自己找基础安装。
 
